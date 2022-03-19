@@ -65,7 +65,7 @@ module.exports = {
           updatedAt: new Date()
         },
         {
-          nnome: 'Jéssica Ferreira Cruz',
+          nome: 'Jéssica Ferreira Cruz',
           genero: 'Feminino',
           idade: 32,
           funcao: 'desenvolvedor',
@@ -77,18 +77,6 @@ module.exports = {
           updatedAt: new Date()
         },
         {
-          nnome: 'Rodrigo do Nascimento Cruz',
-          genero: 'Masculino',
-          idade: 32,
-          funcao: 'desenvolvedor',
-          tempoTrabalho: 1,
-          salario: 5000,
-          estadoCivil: 'casado',
-          endereco: 'Rua José Santana 15, colubandê - SG/RJ',
-          createdAt: new Date(),
-          updatedAt: new Date()
-        },
-        {
           nome: 'Rodrigo do Nascimento Cruz',
           genero: 'Masculino',
           idade: 32,
@@ -137,7 +125,19 @@ module.exports = {
           updatedAt: new Date()
         },
         {
-          nnome: 'Rodrigo do Nascimento Cruz',
+          nome: 'Rodrigo do Nascimento Cruz',
+          genero: 'Masculino',
+          idade: 32,
+          funcao: 'desenvolvedor',
+          tempoTrabalho: 1,
+          salario: 5000,
+          estadoCivil: 'casado',
+          endereco: 'Rua José Santana 15, colubandê - SG/RJ',
+          createdAt: new Date(),
+          updatedAt: new Date()
+        },
+        {
+          nome: 'Rodrigo do Nascimento Cruz',
           genero: 'Masculino',
           idade: 32,
           funcao: 'desenvolvedor',
