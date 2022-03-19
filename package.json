@@ -1,7 +1,23 @@
 {
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Projeto do módulo 4 - API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoncruz/PROJETO-API-SEQUELIZE-ORM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoncruz/PROJETO-API-SEQUELIZE-ORM/issues"
+  },
+  "homepage": "https://github.com/rodrigoncruz/PROJETO-API-SEQUELIZE-ORM#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "init": "^0.1.2",
     "mysql2": "^2.3.3",
     "path": "^0.12.7",
     "sequelize": "^6.17.0",

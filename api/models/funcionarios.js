@@ -16,10 +16,10 @@ module.exports = (sequelize, DataTypes) => {
   Funcionarios.init({
     nome: DataTypes.STRING,
     genero: DataTypes.STRING,
-    idade: DataTypes.NUMBER,
+    idade: DataTypes.INTEGER,
     funcao: DataTypes.STRING,
-    tempoTrabalho: DataTypes.NUMBER,
-    salario: DataTypes.NUMBER,
+    tempoTrabalho: DataTypes.INTEGER,
+    salario: DataTypes.INTEGER,
     estadoCivil: DataTypes.STRING,
     endereco: DataTypes.STRING
   }, {
