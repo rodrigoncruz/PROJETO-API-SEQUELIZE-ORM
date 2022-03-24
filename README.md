@@ -69,12 +69,12 @@ npm start
 ```
 
 
-❤  Vale ressaltar que foi utilizada a versão v16.14.0. do Node.js, dessa forma para realizar a instalação é necessário verificar uma versão igual ou superior a informada acima.
+Vale ressaltar que foi utilizada a versão v16.14.0. do Node.js, dessa forma para realizar a instalação é necessário verificar uma versão igual ou superior a informada acima.
 
 
 <h2>As rotas da API:</h2>
 
-Inicialmente há apenas a rota <b>"/atores"</b>. Com a utilização do CRUD temos:
+Inicialmente há apenas a rota <b>"/funcionarios"</b>. Com a utilização do CRUD temos:
 
 ```js
 
